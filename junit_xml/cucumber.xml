@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="3" tests="3" time="0.00877">
+<testcase classname="DataDriven Test of Vtiger Application" name="parametization the test case functionality" time="0.005687">
+<skipped><![CDATA[When : Run the applicaton using browser.....................................undefined
+Then : Enter "admin" and "raghu" in EditBox.................................undefined
+Then : sign in the the application..........................................undefined
+Then : Home page should display.............................................undefined
+Then : Close the Browser....................................................undefined
+]]></skipped>
+</testcase>
+<testcase classname="DataDriven Test of Vtiger Application" name="parametization the test case functionality 2" time="0.002085">
+<skipped><![CDATA[When : Run the applicaton using browser.....................................undefined
+Then : Enter "admin" and "raghu" in EditBox.................................undefined
+Then : sign in the the application..........................................undefined
+Then : Home page should display.............................................undefined
+Then : Close the Browser....................................................undefined
+]]></skipped>
+</testcase>
+<testcase classname="DataDriven Test of Vtiger Application" name="parametization the test case functionality 3" time="0.000998">
+<skipped><![CDATA[When : Run the applicaton using browser.....................................undefined
+Then : Enter "admin" and "raghu" in EditBox.................................undefined
+Then : sign in the the application..........................................undefined
+Then : Home page should display.............................................undefined
+Then : Close the Browser....................................................undefined
+]]></skipped>
+</testcase>
+</testsuite>
